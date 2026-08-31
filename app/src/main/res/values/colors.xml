@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#F2F2F7</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="chip_bg">#EDEDF2</color>
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="accent">#3B82F6</color>
+    <color name="root_rooted">#3B82F6</color>
+    <color name="root_not_rooted">#EF4444</color>
+    <color name="btn_install">#22C55E</color>
+    <color name="btn_reboot">#F59E0B</color>
+    <color name="btn_uninstall">#EF4444</color>
+    <color name="btn_info">#8B5CF6</color>
+    <color name="btn_main">#2563EB</color>
+    <color name="white">#FFFFFF</color>
+    <color name="divider">#E5E7EB</color>
+    <color name="card_stroke">#E5E7EB</color>
+    <color name="size_selected">#3B82F6</color>
+</resources>
